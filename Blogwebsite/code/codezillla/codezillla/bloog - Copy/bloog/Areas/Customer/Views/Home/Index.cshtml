@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Blog>
+
+
+
+
+<div class="row pb-3">
+    @foreach (var item in Model)
+    {
+        <div>
+
+            <div style="border:5px solid #010;border-radius:5px;margin-bottom:20px;height:200px">
+
+                <h3 class="text-dark" style="text-align:center;">@item.Category </h3>
+                <h3 class="card-title  text-dark">@item.Title</h3>
+                <h3 class="card-title  text-dark"> @item.Description</h3>
+              
+            </div>
+
+            <div>
+                <a asp-action="Details" class="btn btn-success form-control" asp-route-BlogId="@item.Id"> Details</a>
+            </div>
+
+        </div>
+    }
+
+</div>

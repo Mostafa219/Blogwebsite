@@ -1,0 +1,93 @@
+﻿@model bloog.Models.ViewModels.BlogsInfoVM
+
+
+
+<div class="row col-lg-12">
+
+
+    <div class="row col-lg-12">
+        <form method="post" class="row col-lg-12">
+            <input hidden asp-for="BlogId" />
+     
+            <div class="card  container pt-4">
+                <div class="card-header bg-primary text-light ml-0  row ">
+                    <div class="col-12 col-md-6">
+                        <h1 class="text-white-50">@Model.Blog.Title</h1>
+
+                    </div>
+                    <div class="col-12 col-md-6 text-end pt-4">
+                        <span class="badge bg-success pt-2" style="height:30px;">@Model.Blog.Title</span>
+                        <span class="badge bg-success pt-2" style="height:30px;">@Model.Blog.Category</span>
+                    </div>
+                </div>
+                <div class="card-body row container">
+                    <div class="container rounded p-2">
+                        <div class="row">
+                            <div class="col-8 col-lg-8">
+
+
+
+                                <div class="row pl-2">
+                                    <p class="text-secondary">@Html.Raw(Model.Blog.Description)</p>
+                                </div>
+
+                                <div class="row pl-2">
+                                    <p class="text-secondary">@Model.BlogId</p>
+                                </div>
+
+
+                             
+                                
+
+
+
+
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+                <div class="card-footer">
+                    <div class="row">
+                        <div class="col-12 col-md-6 pb-1">
+                            <a class="btn btn-success form-control " asp-action="Plus" asp-route-BlogId="@Model.BlogId"><i class="bi bi-hand-thumbs-up"></i>(@Model.Blog.Likes)</a>
+                        </div>
+
+
+
+                        <div class="col-12 col-md-6">
+                            <a class="btn btn-success form-control" asp-controller="ChatRoom" asp-action="Index"> add comment</a>
+                        </div>
+
+                        
+
+
+
+
+
+
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <div class="row">
+                        <div class="col-12 col-md-6 pb-1">
+                            <a class="btn btn-success form-control " style="height:50px;" asp-action="Index">Back to Home</a>
+                        </div>
+                        <div class="col-12 col-md-6 pb-1">
+                            <button type="submit" value="Add to Cart" class="btn btn-success form-control" style="height:50px;">Pin this post</button>
+                        </div>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+    </div>
+

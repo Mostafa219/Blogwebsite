@@ -1,0 +1,84 @@
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.Models\bin\Debug\net6.0\bloog.Models.deps.json
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.Models\bin\Debug\net6.0\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.Models\bin\Debug\net6.0\ref\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.Models\bin\Debug\net6.0\bloog.Models.pdb
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.Models\obj\Debug\net6.0\bloog.Models.csproj.AssemblyReference.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.Models\obj\Debug\net6.0\bloog.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.Models\obj\Debug\net6.0\bloog.Models.AssemblyInfoInputs.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.Models\obj\Debug\net6.0\bloog.Models.AssemblyInfo.cs
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.Models\obj\Debug\net6.0\bloog.Models.csproj.CoreCompileInputs.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.Models\obj\Debug\net6.0\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.Models\obj\Debug\net6.0\ref\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.Models\obj\Debug\net6.0\bloog.Models.pdb
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.deps.json
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.Models\bin\Debug\net6.0\ref\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.pdb
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.csproj.AssemblyReference.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.AssemblyInfoInputs.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.AssemblyInfo.cs
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.csproj.CoreCompileInputs.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.Models\obj\Debug\net6.0\ref\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.pdb
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.deps.json
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.Models\bin\Debug\net6.0\ref\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.pdb
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.csproj.AssemblyReference.cache
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.AssemblyInfoInputs.cache
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.AssemblyInfo.cs
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.csproj.CoreCompileInputs.cache
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.Models\obj\Debug\net6.0\ref\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.pdb
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.deps.json
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.Models\bin\Debug\net6.0\ref\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.pdb
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.csproj.AssemblyReference.cache
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.AssemblyInfoInputs.cache
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.AssemblyInfo.cs
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.csproj.CoreCompileInputs.cache
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.Models\obj\Debug\net6.0\ref\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.pdb
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.deps.json
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.Models\bin\Debug\net6.0\ref\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.pdb
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.csproj.AssemblyReference.cache
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.AssemblyInfoInputs.cache
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.AssemblyInfo.cs
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.csproj.CoreCompileInputs.cache
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\ref\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.pdb
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.deps.json
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.dll
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.pdb
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.csproj.AssemblyReference.cache
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.AssemblyInfoInputs.cache
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.AssemblyInfo.cs
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.csproj.CoreCompileInputs.cache
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.dll
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\refint\bloog.Models.dll
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.pdb
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\ref\bloog.Models.dll
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.deps.json
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.dll
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.Models\bin\Debug\net6.0\bloog.Models.pdb
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.csproj.AssemblyReference.cache
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.AssemblyInfoInputs.cache
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.AssemblyInfo.cs
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.csproj.CoreCompileInputs.cache
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.dll
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\refint\bloog.Models.dll
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\bloog.Models.pdb
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.Models\obj\Debug\net6.0\ref\bloog.Models.dll

@@ -1,0 +1,18 @@
+﻿@*@using Microsoft.AspNetCore.Identity
+@using bulkey.Models
+
+@bulkey.Models.ApplicationUser
+@inject SignInManager<IdentityUser> SignInManager
+
+
+
+
+<ul class="navbar-nav">
+@if (SignInManager.IsSignedIn(User))
+    {
+
+
+
+    }
+</ul>
+*@

@@ -1,0 +1,60 @@
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\bulkey.Utility.deps.json
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\ref\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.csproj.AssemblyReference.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.AssemblyInfoInputs.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.AssemblyInfo.cs
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.csproj.CoreCompileInputs.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\ref\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\bulkey.Utility.deps.json
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\ref\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.csproj.AssemblyReference.cache
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.AssemblyInfoInputs.cache
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.AssemblyInfo.cs
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.csproj.CoreCompileInputs.cache
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\ref\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\bulkey.Utility.deps.json
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\ref\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.csproj.AssemblyReference.cache
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.AssemblyInfoInputs.cache
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.AssemblyInfo.cs
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.csproj.CoreCompileInputs.cache
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\ref\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\bulkey.Utility.deps.json
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\bulkey.Utility.dll
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.csproj.AssemblyReference.cache
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.AssemblyInfoInputs.cache
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.AssemblyInfo.cs
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.csproj.CoreCompileInputs.cache
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.dll
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\refint\bulkey.Utility.dll
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\ref\bulkey.Utility.dll
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\bulkey.Utility.deps.json
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\bulkey.Utility.dll
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\bin\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.csproj.AssemblyReference.cache
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.AssemblyInfoInputs.cache
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.AssemblyInfo.cs
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.csproj.CoreCompileInputs.cache
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.dll
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\refint\bulkey.Utility.dll
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bulkey.Utility\obj\Debug\net6.0\ref\bulkey.Utility.dll

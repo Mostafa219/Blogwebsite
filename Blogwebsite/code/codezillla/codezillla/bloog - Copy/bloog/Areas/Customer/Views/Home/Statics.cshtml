@@ -1,0 +1,31 @@
+﻿@model bloog.Models.ViewModels.StaticsVM
+@{
+    int x = 0;
+}
+<form>
+
+
+  
+        <div style="border:5px solid #010;border-radius:5px;margin-bottom:20px">
+
+            <h2 class="text-success">number of users who registered in the site @Model.ApplicationUser.ToList().Count()</h2>
+            <h1 class="text-success">the total number of posts @Model.Blogs.ToList().Count()</h1>
+            <h1 class="text-success">the total number of Comments @Model.comments.ToList().Count()</h1>
+            <h1 class="text-success">the number of replies to comments @Model.Replies.ToList().Count()</h1>
+            @foreach (var item in @Model.Blogs)
+        {
+            x += item.Likes;
+
+
+
+            }
+        
+
+       <h1 class="text-success"> number of likes is @x</h1>
+
+       
+
+
+       </div>
+ 
+</form>

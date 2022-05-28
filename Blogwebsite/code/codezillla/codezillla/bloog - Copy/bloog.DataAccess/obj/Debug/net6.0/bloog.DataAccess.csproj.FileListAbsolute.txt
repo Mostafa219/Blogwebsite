@@ -1,0 +1,131 @@
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.AssemblyInfo.cs
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.deps.json
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.runtimeconfig.json
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\bin\Debug\net6.0\ref\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.pdb
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\bin\Debug\net6.0\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\bin\Debug\net6.0\bloog.Models.pdb
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.CopyComplete
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\obj\Debug\net6.0\ref\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.pdb
+C:\Users\girsh\OneDrive\Desktop\kara\bloog\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.genruntimeconfig.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.deps.json
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.runtimeconfig.json
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\ref\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.pdb
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.Models.pdb
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.AssemblyInfo.cs
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.CopyComplete
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\ref\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.pdb
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.genruntimeconfig.cache
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\kara\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.deps.json
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.runtimeconfig.json
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\ref\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.pdb
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.Models.pdb
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.AssemblyInfo.cs
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.CopyComplete
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\ref\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.pdb
+C:\Users\girsh\OneDrive\Desktop\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.genruntimeconfig.cache
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.deps.json
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.runtimeconfig.json
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\ref\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.pdb
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.Models.pdb
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.AssemblyInfo.cs
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.CopyComplete
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\ref\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.pdb
+C:\Users\girsh\OneDrive\Desktop\adc\bloog - Copy\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.genruntimeconfig.cache
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.deps.json
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.runtimeconfig.json
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\ref\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.pdb
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.Models.dll
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bulkey.Utility.dll
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.Models.pdb
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.AssemblyInfo.cs
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.CopyComplete
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\ref\bloog.DataAccess.dll
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.pdb
+C:\Users\girsh\OneDrive\Desktop\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.genruntimeconfig.cache
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.deps.json
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.runtimeconfig.json
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.dll
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.pdb
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.Models.dll
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bulkey.Utility.dll
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.Models.pdb
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.AssemblyInfo.cs
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.CopyComplete
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.dll
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\refint\bloog.DataAccess.dll
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.pdb
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.genruntimeconfig.cache
+C:\Users\C.m™\Desktop\bloog\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\ref\bloog.DataAccess.dll
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.deps.json
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.runtimeconfig.json
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.dll
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.DataAccess.pdb
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.Models.dll
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bulkey.Utility.dll
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bloog.Models.pdb
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\bin\Debug\net6.0\bulkey.Utility.pdb
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.AssemblyInfo.cs
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.csproj.CopyComplete
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.dll
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\refint\bloog.DataAccess.dll
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.pdb
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\bloog.DataAccess.genruntimeconfig.cache
+C:\Users\C.m™\Desktop\New folder (4)\blogwebsite\Blogwebsite\code\codezillla\codezillla\bloog - Copy\bloog.DataAccess\obj\Debug\net6.0\ref\bloog.DataAccess.dll
